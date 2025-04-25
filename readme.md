@@ -50,7 +50,7 @@ About – Mission statement, team profiles, partners, and contact form.
 
 Clone the repository
 
-    git clone https://github.com/Salvatore-droid/deepfake-crisis-project.git
+    git clone https://github.com/Salvatore-droid/deepfake-info-web.git
 
 
 ## Project Goals
