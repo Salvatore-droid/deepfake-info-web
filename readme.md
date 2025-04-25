@@ -24,34 +24,33 @@ Built for a hackathon challenge, this project serves as the capstone for the Dig
 
 ## Technologies Used
 
-    HTML5, CSS3, JavaScript – Core front-end development
+HTML5, CSS3, JavaScript – Core front-end development
 
-    GSAP & CSS Animations – Smooth scroll and hover effects
+GSAP & CSS Animations – Smooth scroll and hover effects
 
-    Responsive Design – Flexbox, Grid, and media queries
+Responsive Design – Flexbox, Grid, and media queries
 
-    Embedded Media – YouTube videos, interactive sliders, and audio players
+Embedded Media – YouTube videos, interactive sliders, and audio players
 
-    Git & GitHub – Version control and deployment
+Git & GitHub – Version control and deployment
 
 ## Pages Breakdown
 
-    Homepage – Introduction to deepfakes with animated statistics and a "Spot the Deepfake" challenge.
+Homepage – Introduction to deepfakes with animated statistics and a "Spot the Deepfake" challenge.
 
-    Research – Technical foundations, current evidence, and societal implications.
+Research – Technical foundations, current evidence, and societal implications.
 
-    Examples – Documented cases of deepfakes in politics, entertainment, and crime.
+Examples – Documented cases of deepfakes in politics, entertainment, and crime.
 
-    Solutions – Policy recommendations, detection tools, and educational resources.
+Solutions – Policy recommendations, detection tools, and educational resources.
 
-    About – Mission statement, team profiles, partners, and contact form.
+About – Mission statement, team profiles, partners, and contact form.
 
 ## Setup & Installation
 
-    Clone the repository
+Clone the repository
 
-
-                git clone https://github.com/yourusername/deepfake-crisis-project.git
+    git clone https://github.com/yourusername/deepfake-crisis-project.git
 
 
 ## Project Goals
